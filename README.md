@@ -1,3 +1,14 @@
+В проекте были задействованы следующие библиотеки:
+pandas  
+datetime as dt  
+calendar  
+seaborn as sns  
+matplotlib.pyplot  
+numpy    
+pingouin  
+scipy.stats   
+tqdm  
+
 ### Задание
 В крупном дейтинговом приложении, помимо базовых функций, также имеется премиум-подписка.
 
